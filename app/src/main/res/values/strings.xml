@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="uploadImages" />
+    <string name="Rs">\u20B9</string>
+    <string name="select_your_image">Select your image</string>
+    <string name="sorry_action">Sorry the action can\'t be done</string>
+    <string name="item_added">Item added to the cart</string>
+    <string name="error_saving">Error with saving product</string>
+    <string name="product_saved">Product saved</string>
+    <string name="error_update">Error with updating product</string>
+    <string name="product_update">Product updated</string>
+    <string name="discard_changes">Discard Your Changes and quit editing</string>
+    <string name="keep_edit">Keep Editing</string>
+    <string name="discard">Discard</string>
+    <string name="delete_product">Delete this product</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="error_delete">Error With Deleting product</string>
+    <string name="product_deleted">product Deleted</string>
+    <string name="order_seller">Order from seller</string>
+    <string name="sale">Sale</string>
+    <string name="rupees">price in rupees</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="enter_here">Enter here</string>
+    <string name="product_name">Product name</string>
+    <string name="quantity_stock">Quantity In Stock : </string>
+    <string name="two">2</string>
+    <string name="rupee">₹</string>
+    <string name="no_items">No Items Found</string>
+    <string name="get_started">start adding products</string>
+    <string name="delete_all">Delete all</string>
+    <string name="add_a_product">Add a Product</string>
+    <string name="edit_a_product">Edit a Product</string>
+    <string name="deliver">Please deliver</string>
+    <string name="packets_of">packets of</string>
+    <string name="of_rs">of Rs</string>
+    <string name="each">each.</string>
+    <string name="supplier_mail">supplier@gmail.com</string>
+    <string name="product_to_deliver">Prodcut to be deliverd</string>
+    <string name="send_email">Send email to Seller</string>
+    <string name="enter_correct_info">Enter the correct information to continue</string>
+    <string name="is_empty">is empty</string>
+    <string name="price_is_req">Price is required!</string>
+    <string name="quantity_is_req">Quantity is required!</string>
+    <string name="productname_is_req">ProductName is required!</string>
+    <string name="ord">order</string>
+
+    <string-array name="uploadImages">
+        <item>Pick from gallery</item>
+        <item>Click from camera</item>
+        <item>Remove image</item>
+    </string-array>
+
+    <string-array name="itemIds">
+        <item>gallery_image</item>
+        <item>camera_image</item>
+        <item>remove_image</item>
+    </string-array>
+</resources>
